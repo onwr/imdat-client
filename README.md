@@ -1,8 +1,7 @@
-<h1>İMDAT APP</h1>
+<p align="center">
+  <img src="./logo.png" />
+</p>
 
-<h1>İMDAT APP</h1>
 
-<a href="video_url">
-  <img src="video.mp4" alt="Video Açıklaması">
-</a>
+<h1 align="center">İMDAT APP</h1>
 
